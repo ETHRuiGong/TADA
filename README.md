@@ -1,5 +1,5 @@
-# TADA
+# TACS
 
-This is the official impelmentation of our arxiv preprint paper "TADA: Taxonomy Adaptive Domain Adaptation" in https://arxiv.org/pdf/2109.04813.pdf.
+This is the official impelmentation of our ECCV 2022 paper "TACS: Taxonomy Adaptive Cross-Domain Semantic Segmentation".
 
-Code is coming soon, which is expected around 01/01/2022.
+Code will be released before 2022/07/17.
