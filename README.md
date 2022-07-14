@@ -26,6 +26,8 @@ After Relabeling: python3 trainTACS_implicitoverlapping_adduncertaincontrastive_
 
 ### Model Testing ###
 
+If you would like to drectly use our trained model, please access our [checkpoints folder](https://drive.google.com/drive/folders/1iWYvZgvlKLC0big-LAJPYf76OQ7f-eTS?usp=sharing).
+
 Open, Coarse-to-Fine: python3 evaluateTACS.py --model-path *\<Path to Checkpoint\>*
 
 Implicitly-Overlapping: python3 evaluateTACS_16classes.py --model-path *\<Path to Checkpoint\>*
